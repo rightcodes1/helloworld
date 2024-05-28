@@ -1,0 +1,13 @@
+{
+  "prefix": "-",
+  "PREFIX": "-",
+  "owners": ["665531752361754644"],
+  "footer": "Pixe",
+ 
+
+  "msg": {
+    "nsfwWarn": "You must use this command in an nsfw channel!",
+    "loading": "Please wait...",
+    "imageNotLoading": "Image not loading ? Click Here"
+  }
+}

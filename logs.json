@@ -1,0 +1,37 @@
+[
+    {
+        "timestamp": "2024-03-18T00:31:27.071Z",
+        "author": "probot.#0",
+        "target": "probot_.6468#0",
+        "action": "Jail",
+        "reason": "yes"
+    },
+    {
+        "timestamp": "2024-03-18T00:33:01.791Z",
+        "author": "probot.#0",
+        "target": "probot_.6468#0",
+        "action": "Unjail",
+        "reason": ""
+    },
+    {
+        "timestamp": "2024-03-18T00:33:13.799Z",
+        "author": "System",
+        "target": "ghost_is_here5845#0",
+        "action": "Automatic Unjail",
+        "reason": ""
+    },
+    {
+        "timestamp": "2024-03-18T00:33:33.043Z",
+        "author": "probot.#0",
+        "target": "probot_.6468#0",
+        "action": "Jail",
+        "reason": "yes"
+    },
+    {
+        "timestamp": "2024-03-18T00:34:37.394Z",
+        "author": "probot.#0",
+        "target": "probot_.6468#0",
+        "action": "Unjail",
+        "reason": ""
+    }
+]
